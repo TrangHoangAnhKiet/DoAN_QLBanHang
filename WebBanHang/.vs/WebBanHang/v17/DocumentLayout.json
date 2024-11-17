@@ -1,0 +1,644 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ql_dh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_dh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|d:\\nam 3\\phan tich va thiet ke he thong thong tin\\doan(test)\\webbanhang\\ql_kbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_kbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|d:\\nam 3\\phan tich va thiet ke he thong thong tin\\doan(test)\\webbanhang\\dbqlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dbqlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|d:\\nam 3\\phan tich va thiet ke he thong thong tin\\doan(test)\\webbanhang\\phukien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:phukien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|d:\\nam 3\\phan tich va thiet ke he thong thong tin\\doan(test)\\webbanhang\\dbqlbanhang.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dbqlbanhang.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|d:\\nam 3\\phan tich va thiet ke he thong thong tin\\doan(test)\\webbanhang\\ql_banhangdientudataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_banhangdientudataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|d:\\nam 3\\phan tich va thiet ke he thong thong tin\\doan(test)\\webbanhang\\ql_kho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_kho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ql_dh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_dh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\phukien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:phukien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dienthoai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dienthoai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dienthoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dienthoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dienthoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dienthoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\73cd7d4c-fcd8-4139-abbe-43e68c4c83f1_WebBanHang(DangSua).zip.3f1\\WebBanHang\\ThongTinKH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\thongtinkh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:thongtinkh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ql_nv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_nv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ql_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_sp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ql_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ql_kbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:ql_kbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\baocaodonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:baocaodonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\baocaodonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:baocaodonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\baocaodh.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{7E6146AD-002F-4768-911D-9B0CD69BEAD4}|WebBanHang.csproj|solutionrelative:baocaodh.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbQLBanHang.dbml",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dbQLBanHang.dbml",
+              "RelativeDocumentMoniker": "dbQLBanHang.dbml",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dbQLBanHang.dbml",
+              "RelativeToolTip": "dbQLBanHang.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-17T08:56:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhuKien.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PhuKien.cs",
+              "RelativeDocumentMoniker": "PhuKien.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PhuKien.cs [Design]",
+              "RelativeToolTip": "PhuKien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:30.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:26:47.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangNhap.cs",
+              "RelativeToolTip": "DangNhap.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:26:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QL_DH.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_DH.cs",
+              "RelativeDocumentMoniker": "QL_DH.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_DH.cs",
+              "RelativeToolTip": "QL_DH.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:29:23.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QL_BanHangDienTuDataSet.xsd",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_BanHangDienTuDataSet.xsd",
+              "RelativeDocumentMoniker": "QL_BanHangDienTuDataSet.xsd",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_BanHangDienTuDataSet.xsd",
+              "RelativeToolTip": "QL_BanHangDienTuDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-17T08:56:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbQLBanHang.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dbQLBanHang.cs",
+              "RelativeDocumentMoniker": "dbQLBanHang.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\dbQLBanHang.cs",
+              "RelativeToolTip": "dbQLBanHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:03:46.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QL_KBH.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KBH.cs",
+              "RelativeDocumentMoniker": "QL_KBH.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KBH.cs",
+              "RelativeToolTip": "QL_KBH.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAewG4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:05:54.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QL_KHO.Designer.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KHO.Designer.cs",
+              "RelativeDocumentMoniker": "QL_KHO.Designer.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KHO.Designer.cs",
+              "RelativeToolTip": "QL_KHO.Designer.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAjwCQBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:05:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PC.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PC.cs",
+              "RelativeDocumentMoniker": "PC.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PC.cs",
+              "RelativeToolTip": "PC.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-17T07:27:57.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LapTop.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\LapTop.cs",
+              "RelativeDocumentMoniker": "LapTop.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\LapTop.cs",
+              "RelativeToolTip": "LapTop.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:48:25.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhuKien.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PhuKien.cs",
+              "RelativeDocumentMoniker": "PhuKien.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PhuKien.cs",
+              "RelativeToolTip": "PhuKien.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:29:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QL_DH.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_DH.cs",
+              "RelativeDocumentMoniker": "QL_DH.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_DH.cs [Design]",
+              "RelativeToolTip": "QL_DH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:29:20.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GioHang.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\GioHang.cs",
+              "RelativeDocumentMoniker": "GioHang.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\GioHang.cs [Design]",
+              "RelativeToolTip": "GioHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:03.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\GioHang.cs",
+              "RelativeDocumentMoniker": "GioHang.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\GioHang.cs",
+              "RelativeToolTip": "GioHang.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:24:57.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PC.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PC.cs",
+              "RelativeDocumentMoniker": "PC.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\PC.cs [Design]",
+              "RelativeToolTip": "PC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-17T07:11:30.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LapTop.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\LapTop.cs",
+              "RelativeDocumentMoniker": "LapTop.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\LapTop.cs [Design]",
+              "RelativeToolTip": "LapTop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:02.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DienThoai.Designer.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DienThoai.Designer.cs",
+              "RelativeDocumentMoniker": "DienThoai.Designer.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DienThoai.Designer.cs",
+              "RelativeToolTip": "DienThoai.Designer.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAjwH4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-17T06:29:02.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DienThoai.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DienThoai.cs",
+              "RelativeDocumentMoniker": "DienThoai.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DienThoai.cs",
+              "RelativeToolTip": "DienThoai.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-17T04:12:35.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwFAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-16T04:44:15.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DienThoai.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DienThoai.cs",
+              "RelativeDocumentMoniker": "DienThoai.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DienThoai.cs [Design]",
+              "RelativeToolTip": "DienThoai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-16T04:41:04.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\User.cs [Design]",
+              "RelativeToolTip": "User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-16T04:40:56.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.Designer.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\User.Designer.cs",
+              "RelativeDocumentMoniker": "User.Designer.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\User.Designer.cs",
+              "RelativeToolTip": "User.Designer.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAjwGAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-16T05:26:17.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThongTinKH.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ThongTinKH.cs",
+              "RelativeDocumentMoniker": "ThongTinKH.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ThongTinKH.cs",
+              "RelativeToolTip": "ThongTinKH.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-17T01:18:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ThongTinKH.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ThongTinKH.cs",
+              "RelativeDocumentMoniker": "ThongTinKH.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ThongTinKH.cs [Design]",
+              "RelativeToolTip": "ThongTinKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-16T04:41:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangKy.cs [Design]",
+              "RelativeToolTip": "DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-16T03:45:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangKy.cs",
+              "RelativeToolTip": "DangKy.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwHkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-16T03:46:55.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\TrangChu.cs",
+              "RelativeDocumentMoniker": "TrangChu.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\TrangChu.cs [Design]",
+              "RelativeToolTip": "TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:26:27.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThongTinKH.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\73cd7d4c-fcd8-4139-abbe-43e68c4c83f1_WebBanHang(DangSua).zip.3f1\\WebBanHang\\ThongTinKH.cs",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\73cd7d4c-fcd8-4139-abbe-43e68c4c83f1_WebBanHang(DangSua).zip.3f1\\WebBanHang\\ThongTinKH.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:03:31.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ThongTinKH.Designer.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ThongTinKH.Designer.cs",
+              "RelativeDocumentMoniker": "ThongTinKH.Designer.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\ThongTinKH.Designer.cs",
+              "RelativeToolTip": "ThongTinKH.Designer.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAjwDABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-16T04:43:50.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QL_NV.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_NV.cs",
+              "RelativeDocumentMoniker": "QL_NV.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_NV.cs [Design]",
+              "RelativeToolTip": "QL_NV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:35.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QL_SP.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_SP.cs",
+              "RelativeDocumentMoniker": "QL_SP.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_SP.cs [Design]",
+              "RelativeToolTip": "QL_SP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:36.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QL_KHO.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KHO.cs",
+              "RelativeDocumentMoniker": "QL_KHO.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KHO.cs [Design]",
+              "RelativeToolTip": "QL_KHO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:34.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QL_KBH.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KBH.cs",
+              "RelativeDocumentMoniker": "QL_KBH.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\QL_KBH.cs [Design]",
+              "RelativeToolTip": "QL_KBH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:33.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DangKy.Designer.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangKy.Designer.cs",
+              "RelativeDocumentMoniker": "DangKy.Designer.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\DangKy.Designer.cs",
+              "RelativeToolTip": "DangKy.Designer.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-16T03:56:14.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:29:57.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaoCaoDonHang.cs",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\BaoCaoDonHang.cs",
+              "RelativeDocumentMoniker": "BaoCaoDonHang.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\BaoCaoDonHang.cs",
+              "RelativeToolTip": "BaoCaoDonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:47:05.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaoCaoDonHang.cs [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\BaoCaoDonHang.cs",
+              "RelativeDocumentMoniker": "BaoCaoDonHang.cs",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\BaoCaoDonHang.cs [Design]",
+              "RelativeToolTip": "BaoCaoDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:34:58.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaoCaoDH.rdlc [Design]",
+              "DocumentMoniker": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\BaoCaoDH.rdlc",
+              "RelativeDocumentMoniker": "BaoCaoDH.rdlc",
+              "ToolTip": "D:\\Nam 3\\Phan tich va thiet ke he thong thong tin\\DoAn(Test)\\WebBanHang\\BaoCaoDH.rdlc [Design]",
+              "RelativeToolTip": "BaoCaoDH.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-14T07:30:36.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

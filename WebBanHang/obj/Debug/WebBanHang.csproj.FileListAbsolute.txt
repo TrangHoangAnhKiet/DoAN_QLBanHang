@@ -1,0 +1,114 @@
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\bin\Debug\WebBanHang.exe.config
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\bin\Debug\WebBanHang.exe
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\bin\Debug\WebBanHang.pdb
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.csproj.AssemblyReference.cache
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.QLBC.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.DangNhap.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.DangKy.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.QL_KBH.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.LapTop.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.DienThoai.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.PC.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.TrangChu.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.Properties.Resources.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.csproj.GenerateResource.cache
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.exe
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.pdb
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.PhuKien.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.QL_SP.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.QL_DH.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.QL_KHO.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.QL_NV.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.User.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.ThongTinKH.resources
+D:\Ma Ngân Giang\LapTrinhDoAn\WebBanHang\obj\Debug\WebBanHang.GioHang.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\WebBanHang.exe.config
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\WebBanHang.exe
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\WebBanHang.pdb
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\EnvDTE.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\stdole.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.csproj.AssemblyReference.cache
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.csproj.SuggestedBindingRedirects.cache
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.exe.config
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.BaoCaoDonHang.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.ThongTinKH.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.GioHang.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.User.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.QLBC.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.PhuKien.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.DangNhap.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.DangKy.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.QL_DH.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.QL_KBH.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.LapTop.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.DienThoai.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.PC.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.QL_KHO.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.QL_NV.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.QL_SP.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.TrangChu.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.Properties.Resources.resources
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.csproj.GenerateResource.cache
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.csproj.Up2Date
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.exe
+D:\Nam 3\Phan tich va thiet ke he thong thong tin\DoAn(Test)\WebBanHang\obj\Debug\WebBanHang.pdb
